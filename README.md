@@ -12,7 +12,7 @@ mail： alan-crl@formail.com
 
 声明：
 
-本网页所属 Alan(CRL) STUDIO 制作，拥有注册版权，受法律保护。
+本网页所属 Alan(CRL) STUDIO，拥有注册版权，受法律保护。
 
 未经许可，严禁克隆，反编译，CSS攻击……及一切违法操作。
 
