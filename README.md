@@ -1,9 +1,9 @@
 # 欢迎查看网站说明
 
-[返回首页](https://alan-crl.github.io/scgw-team/inmain.html)
+[返回首页](https://alan-crl.github.io/scgw-team/index.html)
 [开源代码](https://e.coding.net/alan-crl/scgw-team/1.git)
 
-**欢迎您转载本站**  https://alan-crl.github.io/scgw-team/inmain.html
+**欢迎您转载本站**  https://alan-crl.github.io/scgw-team/index.html
 
 如果有问题可以联系管理员：         **你与我携手共同进步！**
 
